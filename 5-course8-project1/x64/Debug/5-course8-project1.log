@@ -1,0 +1,8 @@
+﻿  5-course8-project1.cpp
+C:\Users\dr\source\repos\5-course8-project1\5-course8-project1\5-course8-project1.cpp(46,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\dr\source\repos\5-course8-project1\5-course8-project1\5-course8-project1.cpp(693,1): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
+C:\Users\dr\source\repos\5-course8-project1\5-course8-project1\5-course8-project1.cpp(724,1): warning C4715: 'DeleteUserByUsername': not all control paths return a value
+C:\Users\dr\source\repos\5-course8-project1\5-course8-project1\5-course8-project1.cpp(791,1): warning C4715: 'UpdateUserByUsername': not all control paths return a value
+C:\Users\dr\source\repos\5-course8-project1\5-course8-project1\5-course8-project1.cpp(818,1): warning C4715: 'DepositBalanceToClientByAccountNumber': not all control paths return a value
+C:\Users\dr\source\repos\5-course8-project1\5-course8-project1\5-course8-project1.cpp(760,1): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
+  5-course8-project1.vcxproj -> C:\Users\dr\source\repos\5-course8-project1\x64\Debug\5-course8-project1.exe
